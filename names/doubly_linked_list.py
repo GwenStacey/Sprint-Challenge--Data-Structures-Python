@@ -152,6 +152,6 @@ class DoublyLinkedList:
                     highest = curr_node.value 
         return highest
         
-
+    
     
         
